@@ -89,9 +89,9 @@ You don't need any server, installation, or setup. Just follow these steps:
 
 1. **Clone the repository** to your computer
 2. git clone https://github.com/khelango2/survey-form-project.git
-3. 2. **Open the folder** and double-click `index.html`
-3. It will open directly in your default web browser
-4. Fill in the form fields and click **Submit**
+3. Double-click `index.html` — it will open directly in your default web browser
+4. It will open directly in your default web browser
+5. Fill in the form fields and click **Submit**
 
 That's it — no build tools, no dependencies.
 

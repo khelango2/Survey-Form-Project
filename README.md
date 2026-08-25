@@ -5,7 +5,7 @@ A simple, pure HTML survey form created to collect feedback from students about 
 ---
 
 ## 📋 Table of Contents
-- [About the Project](#about-the-project) 
+- [About the Project](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#-about-the-project) 
 - [Tech Stack](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#%EF%B8%8F-tech-stack)
 - [Features](#features)
 - [Form Fields Overview](#form-fields-overview)

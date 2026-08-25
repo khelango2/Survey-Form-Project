@@ -15,7 +15,7 @@ A simple, pure HTML survey form created to collect feedback from students about 
 
 ---
 
-## 📖 About the Project
+## 📖 About-the-Project
 
 This is a beginner-to-intermediate level HTML project built to practice and demonstrate different types of HTML form elements in one single page. The form is designed like a real-world student feedback survey — collecting personal details, preferences, ratings, and written feedback.
 
@@ -113,3 +113,6 @@ Since this is a pure HTML project with no backend server, the form uses:
 This is a simple way to visually confirm that your form is capturing and sending the correct data, without needing any backend or server-side code.
 
 ---
+
+
+https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#-table-of-contents

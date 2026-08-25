@@ -95,7 +95,7 @@ You don't need any server, installation, or setup. Just follow these steps:
 
 ##How to Run This Project Locally
 
-1. Go to the repository: [https://github.com/KHELANGO2/survey](https://github.com/KHELANGO2/survey)
+1. Go to the repository: [https://github.com/KHELANGO2/survey](https://github.com/khelango2/Survey-Form-Project)
 2. Click on `index.html`
 3. Click the **Copy raw file** button (top-right of the code view) to copy all the code
 4. On your computer, create a new file and name it `index.html`

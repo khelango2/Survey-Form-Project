@@ -8,7 +8,7 @@ A simple, pure HTML survey form created to collect feedback from students about 
 - [About the Project](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#-about-the-project) 
 - [Tech Stack](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#%EF%B8%8F-tech-stack)
 - [Features](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#-features)
-- [Form Fields Overview](#form-fields-overview)
+- [Form Fields Overview](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#-form-fields-overview)
 - [Project Structure](#project-structure)
 - [How to Run This Project](#how-to-run-this-project)
 - [How Form Submission Works](#how-form-submission-works)

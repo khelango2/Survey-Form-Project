@@ -15,7 +15,7 @@ A simple, pure HTML survey form created to collect feedback from students about 
 
 ---
 
-## 📖 About-the-Project
+## 📖 About the Project
 
 This is a beginner-to-intermediate level HTML project built to practice and demonstrate different types of HTML form elements in one single page. The form is designed like a real-world student feedback survey — collecting personal details, preferences, ratings, and written feedback.
 
@@ -97,7 +97,7 @@ That's it — no build tools, no dependencies.
 
 ---
 
-## 🔄 How Form Submission Works
+## How Form Submission Works
 
 Since this is a pure HTML project with no backend server, the form uses:
 

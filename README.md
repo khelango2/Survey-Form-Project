@@ -5,8 +5,8 @@ A simple, pure HTML survey form created to collect feedback from students about 
 ---
 
 ## 📋 Table of Contents
-- [About the Project](#about-the-project)
-- [Tech Stack](#tech-stack)
+- [About the Project](#about-the-project) 
+- [Tech Stack](https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#%EF%B8%8F-tech-stack)
 - [Features](#features)
 - [Form Fields Overview](#form-fields-overview)
 - [Project Structure](#project-structure)
@@ -97,7 +97,7 @@ That's it — no build tools, no dependencies.
 
 ---
 
-## How Form Submission Works
+## 🔄 How Form Submission Works
 
 Since this is a pure HTML project with no backend server, the form uses:
 
@@ -115,4 +115,3 @@ This is a simple way to visually confirm that your form is capturing and sending
 ---
 
 
-https://github.com/khelango2/Survey-Form-Project/blob/main/README.md#-table-of-contents

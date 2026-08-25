@@ -87,13 +87,21 @@ survey-form-project/
 
 You don't need any server, installation, or setup. Just follow these steps:
 
-1. **Clone the repository** to your computer
-2. git clone https://github.com/khelango2/survey-form-project.git
-3. Double-click `index.html` — it will open directly in your default web browser
-4. It will open directly in your default web browser
-5. Fill in the form fields and click **Submit**
+## 🌐 Live Demo
 
-That's it — no build tools, no dependencies.
+👉 [View Live Form](https://khelango2.github.io/survey/)
+
+---
+
+##How to Run This Project Locally
+
+1. Go to the repository: [https://github.com/KHELANGO2/survey](https://github.com/KHELANGO2/survey)
+2. Click on `index.html`
+3. Click the **Copy raw file** button (top-right of the code view) to copy all the code
+4. On your computer, create a new file and name it `index.html`
+5. Paste the copied code into it and save
+6. Double-click `index.html` — it opens directly in your web browser
+7. Fill out the form and click **Submit** to see the data appear in the URL
 
 ---
 
